@@ -84,7 +84,8 @@ Coming Soon
 
 ## Policy Workflow
 
-![image](https://github.com/hashgraph/guardian/assets/79293833/9f871d97-a8a2-4c6a-a204-55265f49ecf7)
+[MCE-R01 Workflow.pdf](https://github.com/Mcnoble1/DLT-Earth-Hack-Methodologies/files/14903857/MCE-R01.Workflow.pdf)
+
 
 ## Policy Guide
 
