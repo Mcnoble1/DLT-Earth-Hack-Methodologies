@@ -31,12 +31,12 @@ It covers a range of activities, including the establishment of new recycling fa
 
 ## Applicability
 
-This methodology is applicable to projects meeting the following criteria:
+This methodology applies to projects meeting the following criteria:
 
 - Plastic waste sourced from various locations including land, water bodies, dumpsites, and urban areas, among others.
 - Recycling of plastic types such as PET, HDPE, PVC, LDPE, PP, PS, and others as outlined in the VPCE's Protocol.
 - Compliance with local and national regulations, ensuring environmental and social safeguards.
-- Accurate estimation of recycled plastic volume, either through direct monitoring or mass balance approach.
+- Accurate estimation of recycled plastic volume, either through direct monitoring or a mass balance approach.
 - Maintenance of an identifiable end-use market for recycled plastic, excluding fuel production.
 - Proper management of non-recycled plastic waste to prevent environmental contamination.
 - Implementation of contractual agreements for monitored use of recycled plastic by end consumers.
@@ -59,9 +59,9 @@ Tool to Report Contributions of Circular Economy Initiatives to the Sustainable 
 Contributions to the UN Sustainable Development Goals
 
 PCEMs adequately implementing Cercarbono's SDGs tool shall be awarded a
-differentiation seal, shown on the retirement certificate and in EcoRegistry platform
+differentiation seal, shown on the retirement certificate and in the EcoRegistry platform
 
-Financial additionality must be demonstrated applying the most recent version of
+Financial additionality must be demonstrated by applying the most recent version of
 UNFCCC - CDM Tool 27 Investment Analysis.
 
 Tool 01 of CDM using additionality steps of this methodology
@@ -71,7 +71,7 @@ Tool 01 of CDM using additionality steps of this methodology
 ## Important Parameters
 
 At Validation:
-- Grid Emission Factor: To be determined at validation and can also be monitored ex post.
+- Grid Emission Factor: To be determined at validation and can also be monitored ex-post.
   
 At Monitoring Periods:
 - Quantity of Net Electricity Supplied to the Grid
@@ -84,12 +84,12 @@ Coming Soon
 
 ## Policy Workflow
 
-[MCE-R01 Workflow.pdf](https://github.com/Mcnoble1/DLT-Earth-Hack-Methodologies/files/14903857/MCE-R01.Workflow.pdf)
+![MCE-R01 Workflow](https://github.com/Mcnoble1/DLT-Earth-Hack-Methodologies/assets/40045755/1ae1c230-8b18-4b8c-a0ee-5cf665259bfd)
 
 
 ## Policy Guide
 
-This policy is published to Hedera network and can either be imported via Github (.policy file) or IPFS timestamp. 
+This policy is published to the Hedera network and can be imported via Github (.policy file) or IPFS timestamp. 
  
 ## Available Roles
 
