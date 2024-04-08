@@ -1,3 +1,5 @@
+# M/CE-R01 Circular Economy Methodology for Encouraging Plastic Recycling
+
 ## Table of content
 <!-- TOC -->
 
@@ -31,12 +33,12 @@ It covers a range of activities, including the establishment of new recycling fa
 
 ## Applicability
 
-This methodology applies to projects meeting the following criteria:
+This methodology is applicable to projects meeting the following criteria:
 
 - Plastic waste sourced from various locations including land, water bodies, dumpsites, and urban areas, among others.
 - Recycling of plastic types such as PET, HDPE, PVC, LDPE, PP, PS, and others as outlined in the VPCE's Protocol.
 - Compliance with local and national regulations, ensuring environmental and social safeguards.
-- Accurate estimation of recycled plastic volume, either through direct monitoring or a mass balance approach.
+- Accurate estimation of recycled plastic volume, either through direct monitoring or mass balance approach.
 - Maintenance of an identifiable end-use market for recycled plastic, excluding fuel production.
 - Proper management of non-recycled plastic waste to prevent environmental contamination.
 - Implementation of contractual agreements for monitored use of recycled plastic by end consumers.
@@ -56,22 +58,16 @@ For plastic recycling, the baseline scenarios correspond to the amount of plasti
 
 Tool to Report Contributions of Circular Economy Initiatives to the Sustainable Development Goals
 
-Contributions to the UN Sustainable Development Goals
-
 PCEMs adequately implementing Cercarbono's SDGs tool shall be awarded a
-differentiation seal, shown on the retirement certificate and in the EcoRegistry platform
+differentiation seal, shown on the retirement certificate and in EcoRegistry platform
 
-Financial additionality must be demonstrated by applying the most recent version of
+Financial additionality must be demonstrated applying the most recent version of
 UNFCCC - CDM Tool 27 Investment Analysis.
-
-Tool 01 of CDM using additionality steps of this methodology
-
-**[Methodological Tool 03](https://github.com/hashgraph/guardian/blob/main/Methodology%20Library/CDM/Tools/Tool%2003/readme.md)** - Tool to calculate project or leakage CO2 emissions from fossil fuel combustion. 
 
 ## Important Parameters
 
 At Validation:
-- Grid Emission Factor: To be determined at validation and can also be monitored ex-post.
+- Grid Emission Factor: To be determined at validation and can also be monitored ex post.
   
 At Monitoring Periods:
 - Quantity of Net Electricity Supplied to the Grid
@@ -84,18 +80,18 @@ Coming Soon
 
 ## Policy Workflow
 
-![MCE-R01 Workflow](https://github.com/Mcnoble1/DLT-Earth-Hack-Methodologies/assets/40045755/1ae1c230-8b18-4b8c-a0ee-5cf665259bfd)
-
+![image](https://github.com/hashgraph/guardian/assets/79293833/9f871d97-a8a2-4c6a-a204-55265f49ecf7)
 
 ## Policy Guide
 
-This policy is published to the Hedera network and can be imported via Github (.policy file) or IPFS timestamp. 
+This policy is published to Hedera network and can either be imported via Github (.policy file) or IPFS timestamp. 
  
 ## Available Roles
 
-- Project Participant - The project participant is responsible for executing the emission reduction project. The project participant must adhere to the requirements outlined by the CDM and provide evidence of the emission reductions achieved. Upon successful verification, the project participant receives certified emission reduction (CER) tokens as an incentive for their emission reductions.  
-- Verification and Validation Body (VVB) - The VVB plays a critical role in independently verifying and validating the project data submitted by the project participant. They thoroughly assess the project's emission reduction potential, methodologies, and adherence to the policy guidelines. Based on their evaluation, the VVB either approves or rejects the project for registration.  
-- Registry (UNFCCC) - The United Nations Framework Convention on Climate Change (UNFCCC) serves as the registry for the CDM. They oversee the multiple workflow steps involved in the project's approval, including the verification and validation process by the VVB. The UNFCCC's approval is necessary for the project's successful registration and issuance of CER tokens. 
+- PCEM Participant - The project participant is responsible for executing the emission reduction project. The project participant must adhere to the requirements outlined in the VPCE PDD and provide evidence of the emission reductions achieved. Upon successful verification, the PCEM participant receives circular plastic credit (CPC) tokens as an incentive for their emission reductions.  
+- Verification and Validation Body (VVB) - The VVB plays a critical role in independently verifying and validating the project data submitted by the project participant. They thoroughly assess the project's emission reduction potential, methodologies, and adherence to the policy guidelines. Based on their evaluation, the VVB either approves or rejects the project for registration.
+Cercarbono and Allcot are usinf Icontec as their VVB.
+- Registry (EcoRegistry) - EcoRegistry serves as the registry for the VPCE under Cercarbono and Allcot. They oversee the multiple workflow steps involved in the project's approval, including the verification and validation process by the VVB. The UNFCCC's approval is necessary for the project's successful registration and issuance of CER tokens. 
 
 ## Important Documents and Schemas
 
