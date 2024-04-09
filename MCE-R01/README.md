@@ -111,7 +111,7 @@ Monitoring Report – The monitoring report is to be filled out based on the mon
 
 VVB Information - Schema showing all the needed information about a VVB and their accredited bodies and certifications.
 
-## Token (Carbon Emission Reduction)
+## Tokens
 
 Circular Plastic Credits (CPC), each equivalent to one tonne of CO2. 
 Circular Economy Credits (CEC), each equivalent to one tonne of CO2.
